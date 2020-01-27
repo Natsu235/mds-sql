@@ -10,4 +10,5 @@ TP du 07/01/2020
 
 * **Restaurant.png** - Schéma SQL
 * **Restaurant.loo** - Schéma SQL (Projet Looping)
-* **Restaurant.sql** - Base de données
+* **restaurant.sql** - Base de données
+* **fixture.sql** - Script SQL (Génère la base de données)
