@@ -23,10 +23,13 @@ TP n°2 du 28/01/2020
 * **fixture.sql** - Script SQL (Génère la base de données)
 * **query.sql** - Requêtes SQL (Requêtes diverses)
 
-## Disco
+## NightClub
 
 TP n°3 du 28/01/2020
 
-<kbd><img width="840" height="287" src="Disco/Disco.png" /></kbd>
+<kbd><img width="840" height="287" src="NightClub/NightClub.png" /></kbd>
 
-* **Disco.png** - Schéma MCD
+* **NightClub.png** - Schéma MCD
+* **NightClubTables.sql** - Tables de la BDD (CREATE)
+* **NightClubFixtures.sql** - Données de la BDD (INSERT)
+* **NightClubRequests.sql** - Requètes SQL (SELECT)
